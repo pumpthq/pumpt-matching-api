@@ -1,0 +1,9 @@
+{
+    "_id": "e729d8de-1495-4969-b700-5f88a7943afb",
+    "email" : "admin@pumpt.com",
+    "model" : "admin",
+    "role": 100,
+    "password": "password",
+    "isApproved": true,
+    "isConfirmed": true
+}
